@@ -1,4 +1,4 @@
-time,motor_target1,encoder1,motor_target2,encoder2,motor_target3,encoder3,inclination_target,inclination_sensor,orientation_target,
+time,motor_target1,encoder1,motor_target2,encoder2,motor_target3,encoder3,inclination_target,inclination_sensor,orientation_target,orientation_sensor
 0,115.189,0.7839,-40.0198,-0.118773,-40.0198,0.0712636,20,0,90,0
 0.01,115.189,18.576,-40.0198,-7.64896,-40.0198,-6.03365,20,0.05,90,275.64
 0.02,115.189,43.7796,-40.0198,-24.9898,-40.0198,-20.9753,20,0.15,90,238.58
