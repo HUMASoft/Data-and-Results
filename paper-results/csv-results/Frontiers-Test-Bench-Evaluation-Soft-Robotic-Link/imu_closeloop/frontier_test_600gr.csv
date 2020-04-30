@@ -1,4 +1,4 @@
-time,inclination_target,inclination_sensor,orientation_target,orientation_sensor,inclination_error,control_signal_m1,control_signal_m2,control_signal_m3,encoder1,encoder2,encoder3,kinnematics_inclination,kinematics_orientation
+time,inclination_target,inclination_sensor,orientation_target,orientation_sensor,inclination_error,control_signal_m1,control_signal_m2,control_signal_m3,encoder1,encoder2,encoder3,kinematics_inclination,kinematics_orientation
 0,15,0.07,0,247.55,14.93,0.137372,-0.35398,0.628724,0.00165836,0.000414589,0.00331672,0.014390727,-4.731862898
 0.02,15,0.08,0,54.18,14.92,0.138451,-0.41465,0.691552,0.00124377,0,0.00331672,0.016444179,-8.28467497
 0.04,15,0.24,0,50.82,14.76,0.139493,-0.467266,0.746252,0.00497507,-0.00414589,0.00663343,0.053693547,2.657250783
